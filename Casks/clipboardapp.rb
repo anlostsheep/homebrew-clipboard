@@ -1,6 +1,6 @@
 cask "clipboardapp" do
   version "0.1.0"
-  sha256 "0000000000000000000000000000000000000000000000000000000000000000"
+  sha256 "d47c1ef8846d458e49ee538a57bfd869875df2dd04beebed9cb7c23391fd6584"
 
   url "https://github.com/anlostsheep/clipboard/releases/download/v#{version}/ClipboardApp-v#{version}-macos.zip"
   name "Clipboard"
